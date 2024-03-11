@@ -1,0 +1,210 @@
+{
+    "id": 641267,
+    "authority_group_name": "Mail Room ",
+    "avatar": "avatars/generic_profile.jpg",
+    "avatar_images": [
+        {
+            "id": 2,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/002/thumb/al_bundy_400_profile.jpg"
+        },
+        {
+            "id": 3,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/003/thumb/arnold_profile.gif"
+        },
+        {
+            "id": 4,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/004/thumb/Barack-Obama_profile.gif"
+        },
+        {
+            "id": 5,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/005/thumb/BarbaraWalters_profile.jpg"
+        },
+        {
+            "id": 6,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/006/thumb/BaySt_profile.gif"
+        },
+        {
+            "id": 7,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/007/thumb/Bear_profile.gif"
+        },
+        {
+            "id": 8,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/008/thumb/Beckham_profile.jpg"
+        },
+        {
+            "id": 9,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/009/thumb/Bull_profile.jpg"
+        },
+        {
+            "id": 10,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/010/thumb/CarlyFiorina_profile.jpg"
+        },
+        {
+            "id": 11,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/011/thumb/Charles-Bronson_profile.jpg"
+        },
+        {
+            "id": 12,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/012/thumb/Clemens_profile.jpg"
+        },
+        {
+            "id": 13,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/013/thumb/colbert-images_profile.jpg"
+        },
+        {
+            "id": 14,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/014/thumb/Darth-Vader_profile.jpg"
+        },
+        {
+            "id": 15,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/015/thumb/Donald-Trump_profile.jpg"
+        },
+        {
+            "id": 16,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/016/thumb/e_profile.jpg"
+        },
+        {
+            "id": 17,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/017/thumb/Ginger_profile.jpg"
+        },
+        {
+            "id": 18,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/018/thumb/gordongekko_profile.jpg"
+        },
+        {
+            "id": 19,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/019/thumb/Gretzky_profile.jpg"
+        },
+        {
+            "id": 20,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/020/thumb/HilaryClinton_profile.jpg"
+        },
+        {
+            "id": 21,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/021/thumb/Homer_profile.jpg"
+        },
+        {
+            "id": 22,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/022/thumb/humbug_entourage-ari_profile.jpg"
+        },
+        {
+            "id": 23,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/023/thumb/Jordan_profile.jpg"
+        },
+        {
+            "id": 24,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/024/thumb/LisaSimpson_profile.jpg"
+        },
+        {
+            "id": 25,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/025/thumb/Marc-Cuban_profile.jpg"
+        },
+        {
+            "id": 26,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/026/thumb/MargeSimpson_profile.jpg"
+        },
+        {
+            "id": 27,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/027/thumb/Martha-Stewart_profile.jpg"
+        },
+        {
+            "id": 28,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/028/thumb/Monopoly-Money-bags_profile.jpg"
+        },
+        {
+            "id": 29,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/029/thumb/MrBurns_profile.jpg"
+        },
+        {
+            "id": 30,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/030/thumb/MrsHowell_profile.jpg"
+        },
+        {
+            "id": 31,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/031/thumb/Nasdaq_profile.jpg"
+        },
+        {
+            "id": 32,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/032/thumb/NYSE_profile.jpg"
+        },
+        {
+            "id": 33,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/033/thumb/Oprah_profile.jpg"
+        },
+        {
+            "id": 34,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/034/thumb/Ramirez_profile.jpg"
+        },
+        {
+            "id": 35,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/035/thumb/Scrooge-McDuck_profile.jpg"
+        },
+        {
+            "id": 36,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/036/thumb/Scrooge_profile.jpg"
+        },
+        {
+            "id": 37,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/037/thumb/StarJones_profile.jpg"
+        },
+        {
+            "id": 38,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/038/thumb/Steve-Jobs_profile.jpg"
+        },
+        {
+            "id": 39,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/039/thumb/stewie_evil_profile.gif"
+        },
+        {
+            "id": 40,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/040/thumb/TigerWoods_profile.gif"
+        },
+        {
+            "id": 41,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/041/thumb/tony_profile.gif"
+        },
+        {
+            "id": 42,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/042/thumb/WallSt_profile.jpg"
+        },
+        {
+            "id": 43,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/043/thumb/Warren-Buffet_profile.jpg"
+        },
+        {
+            "id": 44,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/044/thumb/WonderWoman_profile.jpg"
+        },
+        {
+            "id": 45,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/045/thumb/Yao_profile.jpg"
+        },
+        {
+            "id": 46,
+            "image_url": "https://s3.amazonaws.com/s3-staging.agoracom.com/avatars/images/000/000/046/thumb/kermit.gif"
+        }
+    ],
+    "bio": null,
+    "city": null,
+    "country": null,
+    "daily_digest_subscribed": true,
+    "date_joined": "01/24/2024",
+    "date_of_birth": null,
+    "education_id": null,
+    "email": "vedantkhamar234@gmail.com",
+    "facebook_profile_url": null,
+    "gender_id": null,
+    "is_pm_notifiable": true,
+    "job_title": null,
+    "linkedin_profile_url": null,
+    "phone": null,
+    "profile_video_code": null,
+    "ranking_points": 0,
+    "rating": "0.0",
+    "show_username": null,
+    "subscribed": true,
+    "username": "vedant24",
+    "violation_count": 0,
+    "weekly_digest_subscribed": true,
+    "your_rating": 0
+}

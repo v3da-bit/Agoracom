@@ -1,0 +1,21 @@
+follow: false
+photo_id: 
+message[company_id]: 564761
+message[message_type]: Message
+message[title]: aa
+message[video_link]: aa
+message[content]: <p>aa</p>
+message[is_featured]: false
+message[is_shown_on_homepage]: false
+
+company[]
+manager[]
+
+
+AGORACOM Small Cap 60: HPQ Silicon Shareholders Have Reason To Cheer MOU With U.S. Based Ecellix
+
+AGORACOM Small Cap 60: HPQ Silicon Signs MOU with Developer of eCell™
+
+https://agoracom-api-0097bf875787.herokuapp.com/api/v1/messages/2402777/edit
+
+https://agoracom-api-0097bf875787.herokuapp.com/api/v1/messages/2402777

@@ -1,0 +1,12 @@
+GET api/v1/admin/global_settings/moderate (this api is to get the value for moderate mode, to play with moderate button in moderate screen Admin site)
+
+if false= mode:normal blue
+if true= mode:moderate red
+icons 
+on Button Click:PATCH 
+api/v1/admin/global_settings/update_moderate (This api is to toggle moderate mode)
+Params: JSON
+global_setting: { value: boolean }
+GET api/v1/admin/searches/companies?q=text (this API is to play with Global Search Functionality, if you are typing some text for example "HPQ" and you get data, display in the dropdown to be able to hit click, o
+
+violation current_leader=true (show violation tab in companies)

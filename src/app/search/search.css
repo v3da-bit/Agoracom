@@ -1,0 +1,7 @@
+#custom-search {
+    margin: auto;
+}
+
+.gsc-search-box, .gsc-search-box-tools {
+    display: none;
+}
